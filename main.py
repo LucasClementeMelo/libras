@@ -59,3 +59,4 @@ while True:
 
     cv2.imshow('Imagem',img)
     cv2.waitKey(1)
+    
